@@ -1,6 +1,8 @@
 # IROPAKU for MSX
 昔プチコン3号で作ったゲームをMSX-BASICに移植しました。
 
+[WebMSX](https://webmsx.org/?machine=msx2pj&DISKA_URL=https://github.com/escapism/iropaku-msx/raw/refs/heads/main/iropaku.dsk)
+
 ## 操作方法
 - カーソルキーまたはジョイスティックで上下左右に移動
 - Z,X,C,V の各キーで、それぞれ対応した色に変化
